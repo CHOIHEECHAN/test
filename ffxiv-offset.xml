@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+  <DX11>
+    <StructureAddress>1AA81A0</StructureAddress>
+    <ZoomCurrent>118</ZoomCurrent>
+    <ZoomMax>120</ZoomMax>
+    <FovCurrent>124</FovCurrent>
+    <FovMax>12C</FovMax>
+  </DX11>
+  <LastUpdate>2019-01-24 - patch 4.5 (DX11)</LastUpdate>
+</Root>
